@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    height: 90vh;
+    justify-content: center;
+    align-items: center;
+}
+div{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+}
+#display{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#inputbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
